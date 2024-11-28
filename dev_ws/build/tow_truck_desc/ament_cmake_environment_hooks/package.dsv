@@ -1,0 +1,4 @@
+source;share/tow_truck_desc/local_setup.bash
+source;share/tow_truck_desc/local_setup.dsv
+source;share/tow_truck_desc/local_setup.sh
+source;share/tow_truck_desc/local_setup.zsh

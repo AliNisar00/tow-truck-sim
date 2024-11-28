@@ -1,0 +1,1 @@
+/home/ali/Documents/FYP_sim/dev_ws/build/tow_truck_desc/ament_cmake_core/tow_truck_descConfig.cmake
